@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2731027237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a285384f34db5cb3c4124efa8e2292f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5175c78888fae5d4b451da7ee111bfb8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MBO Stuff/Prefabs/spider.prefab
+Dependencies: []
